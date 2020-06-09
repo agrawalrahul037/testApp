@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/build/static/css/main.5f361e03.chunk.css",
-    "main.js": "/build/static/js/main.401ca624.chunk.js",
-    "main.js.map": "/build/static/js/main.401ca624.chunk.js.map",
-    "runtime-main.js": "/build/static/js/runtime-main.661e6264.js",
-    "runtime-main.js.map": "/build/static/js/runtime-main.661e6264.js.map",
-    "static/js/2.a6a570a0.chunk.js": "/build/static/js/2.a6a570a0.chunk.js",
-    "static/js/2.a6a570a0.chunk.js.map": "/build/static/js/2.a6a570a0.chunk.js.map",
-    "index.html": "/build/index.html",
-    "precache-manifest.dcc4546b50558eb279f1959491bf9406.js": "/build/precache-manifest.dcc4546b50558eb279f1959491bf9406.js",
-    "service-worker.js": "/build/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/build/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.a6a570a0.chunk.js.LICENSE.txt": "/build/static/js/2.a6a570a0.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/build/static/media/logo.5d5d9eef.svg"
+    "main.css": "/testApp/build/static/css/main.5f361e03.chunk.css",
+    "main.js": "/testApp/build/static/js/main.dd6a8181.chunk.js",
+    "main.js.map": "/testApp/build/static/js/main.dd6a8181.chunk.js.map",
+    "runtime-main.js": "/testApp/build/static/js/runtime-main.c9ebb200.js",
+    "runtime-main.js.map": "/testApp/build/static/js/runtime-main.c9ebb200.js.map",
+    "static/js/2.a6a570a0.chunk.js": "/testApp/build/static/js/2.a6a570a0.chunk.js",
+    "static/js/2.a6a570a0.chunk.js.map": "/testApp/build/static/js/2.a6a570a0.chunk.js.map",
+    "index.html": "/testApp/build/index.html",
+    "precache-manifest.643140d1ab8b0959d18212f5a53e6780.js": "/testApp/build/precache-manifest.643140d1ab8b0959d18212f5a53e6780.js",
+    "service-worker.js": "/testApp/build/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/testApp/build/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.a6a570a0.chunk.js.LICENSE.txt": "/testApp/build/static/js/2.a6a570a0.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/testApp/build/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.661e6264.js",
+    "static/js/runtime-main.c9ebb200.js",
     "static/js/2.a6a570a0.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.401ca624.chunk.js"
+    "static/js/main.dd6a8181.chunk.js"
   ]
 }
